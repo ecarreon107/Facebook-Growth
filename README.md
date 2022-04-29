@@ -1,1 +1,1 @@
-# Facebook-Growth
+Facebook is undoubtedly the biggest social media platform today. Being formed in 2008, this platform's usage has skyrocketed in the past decade. Using programs such as SQL and excel, I was able to explore how much this company has grown since its founding. Furthermore, using SQL syntax and excel formulas, I was able to determine the growth that Facebook will encounter in the following years. 
